@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi there, I'm Alaa HAJRI, a Cloud Solution Architect and AWS Certified Cloud Practitioner with expertise in Python, Terraform, Docker, and Kubernetes.
+I'm Alaa HAJRI, a Cloud Solution Architect and AWS Certified Cloud Practitioner with expertise in Python, Terraform, Docker, and Kubernetes.
 <!--
 **AlaaHajri/AlaaHajri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
