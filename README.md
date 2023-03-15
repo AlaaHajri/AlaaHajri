@@ -1,6 +1,6 @@
 # Hi there, I'm Alaa HAJRI 👋
-[![Credly Badge](https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
-[![Credly Badge](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+[![Credly Badge](https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
+[![Credly Badge](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
 
 I'm a Cloud Solution Architect with expertise in Python, Terraform, Docker, and Kubernetes. I'm also certified in AWS Cloud Practitioner and CCNA.
 
