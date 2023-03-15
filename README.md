@@ -4,12 +4,14 @@ I'm a Cloud Solution Architect with expertise in Python, Terraform, Docker, and 
 
 ## Technologies I work with
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-092E20?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-002A5C?style=for-the-badge&logo=Cisco&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-092E20?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Certified Cloud Practitioner" height="32" />
+  <img src="https://img.shields.io/badge/CCNA-002A5C?style=for-the-badge&logo=Cisco&logoColor=white" alt="CCNA" height="32" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="32" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform" height="32" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" height="32" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" height="32" />
+</div>
 
 
 <!--
