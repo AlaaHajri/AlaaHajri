@@ -20,6 +20,9 @@ Certifications:
     <a href="https://www.credly.com/earner/earned/badge/08ae1fa4-cf07-487e-90f3-12e491272311">
         <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Credly Badge" height="120" />
     </a>
+     <a href="https://www.credly.com/badges/dfda4d9d-9dd8-4a4a-bd24-59a1d505a8a8">
+        <img src="https://images.credly.com/size/150x150/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA Badge" height="120" />
+    </a>
 </div>
 
 
