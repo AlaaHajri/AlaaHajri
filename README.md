@@ -2,7 +2,7 @@
 
 I'm a Cloud Solution Architect with expertise in Python, Terraform, Docker, and Kubernetes. I'm also certified in AWS Cloud Practitioner and CCNA.
 
-## Technologies I work with
+## Technologies I work with:
 <div style="text-align:center;">
   <img src="https://img.shields.io/badge/AWS%20CCP%20%20Certified%20Cloud%20Practitioner-092E20?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Certified Cloud Practitioner" height="40" />
   <img src="https://img.shields.io/badge/Cisco%20CCNA%20Certified-002A5C?style=for-the-badge&logo=Cisco&logoColor=white" alt="CCNA" height="40" />
