@@ -2,6 +2,7 @@
 I'm Alaa HAJRI, a Cloud Solution Architect and AWS Certified Cloud Practitioner with expertise in Python, Terraform, Docker, and Kubernetes.
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-092E20?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-002A5C?style=for-the-badge&logo=Cisco&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
