@@ -3,14 +3,16 @@ I'm a Cloud Solution Architect with expertise in Python, Terraform, Docker, and 
 
 Technologies I work with:
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" />
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS" height="30" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform" height="30" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" height="30" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" height="30" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" />
   <img src="https://img.shields.io/badge/Cisco%20IOS-003D71?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco IOS" height="30" />
+  <img src="https://img.shields.io/badge/Netmiko-00aa8d?style=for-the-badge&logoColor=white" alt="Netmiko" height="30" /> 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" height="30" />
   <img src="https://img.shields.io/badge/YAML-2C8EBB?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML" height="30" />
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS" height="30" />
+
 
 
 </div>
