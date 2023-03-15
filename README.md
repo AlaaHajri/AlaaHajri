@@ -13,9 +13,10 @@ I'm a Cloud Solution Architect with expertise in Python, Terraform, Docker, and 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" height="32" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" height="32" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" height="32" />
+  <img src="https://img.shields.io/badge/AWS%20Academy%20Gradute-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Academy Certified" height="32"/>
 </div>
 <div style="text-align:center;">
-   <img src="https://img.shields.io/badge/AWS%20Academy%20Gradute-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Academy Certified" height="32"/>
+
 </div>
 
 
