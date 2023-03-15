@@ -1,28 +1,26 @@
 # Hi there, I'm Alaa HAJRI 👋
-[![Credly Badge](https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
-[![Credly Badge](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-
 I'm a Cloud Solution Architect with expertise in Python, Terraform, Docker, and Kubernetes. I'm also certified in AWS Cloud Practitioner and CCNA.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2b0f1c42-23db-4a38-8fe8-5883c3f5f180" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-## Technologies I work with:
-<div style="text-align:center;">
-  <img src="https://img.shields.io/badge/AWS%20CCP%20%20Certified%20Cloud%20Practitioner-092E20?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Certified Cloud Practitioner" height="40" />
-  <img src="https://img.shields.io/badge/Cisco%20CCNA%20Certified-002A5C?style=for-the-badge&logo=Cisco&logoColor=white" alt="CCNA" height="40" />
-</div>
+Technologies I work with:
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform" height="30" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" height="30" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes" height="30" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" height="30" />
-  <img src="https://img.shields.io/badge/AWS%20Academy%20Graduate-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Academy Certified" height="30"/>
-</div>
-<div style="text-align:center;">
+  <img src="https://img.shields.io/badge/Cisco%20IOS-003D71?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco IOS" height="30" />
+  <img src="https://img.shields.io/badge/YAML-2C8EBB?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML" height="30" />
 
 </div>
-
-
+Certifications:
+<div>
+    <a href="https://www.credly.com/badges/badge-id">
+        <img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Credly Badge" height="120" />
+    </a>
+    <a href="https://www.credly.com/badges/badge-id">
+        <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Credly Badge" height="120" />
+    </a>
+</div>
 
 
 <!--
