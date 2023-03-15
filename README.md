@@ -14,10 +14,10 @@ Technologies I work with:
 </div>
 Certifications:
 <div>
-    <a href="https://www.credly.com/badges/badge-id">
+    <a href="https://www.credly.com/earner/earned/badge/2b0f1c42-23db-4a38-8fe8-5883c3f5f180">
         <img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Credly Badge" height="120" />
     </a>
-    <a href="https://www.credly.com/badges/badge-id">
+    <a href="https://www.credly.com/earner/earned/badge/08ae1fa4-cf07-487e-90f3-12e491272311">
         <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Credly Badge" height="120" />
     </a>
 </div>
