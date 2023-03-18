@@ -18,15 +18,25 @@ Technologies I work with:
 </div>
 Certifications:
 <div>
+    <a href="https://www.credly.com/badges/7d91cda4-3ba4-4af4-aee7-87f29626737f">
+        <img src="https://images.credly.com/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" alt="AWS Educate Getting Started with Cloud Ops Badge" height="120" />
+    </a>
+    <a href="https://www.credly.com/badges/bc0b9ba9-1c47-4e43-a0ec-5ab76263ccef">
+        <img src="https://images.credly.com/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="AWS Educate Getting Started with Networking Badge" height="120" />
+    </a>  
     <a href="https://www.credly.com/earner/earned/badge/2b0f1c42-23db-4a38-8fe8-5883c3f5f180">
         <img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Credly Badge" height="120" />
     </a>
     <a href="https://www.credly.com/earner/earned/badge/08ae1fa4-cf07-487e-90f3-12e491272311">
         <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Credly Badge" height="120" />
     </a>
-     <a href="https://www.credly.com/badges/dfda4d9d-9dd8-4a4a-bd24-59a1d505a8a8">
+    <a href="https://www.credly.com/badges/dfda4d9d-9dd8-4a4a-bd24-59a1d505a8a8">
         <img src="https://images.credly.com/size/150x150/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA Badge" height="120" />
     </a>
+    <a href="https://www.credly.com/badges/c2273ab3-cd13-4299-9a0f-e5bb04c87f8b">
+        <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco Python Essentials 1 Badge" height="120" />
+    </a>
+
 </div>
 
 
