@@ -12,10 +12,15 @@ Technologies I work with:
   <img src="https://img.shields.io/badge/Netmiko-00aa8d?style=for-the-badge&logoColor=white" alt="Netmiko" height="30" /> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" height="30" />
   <img src="https://img.shields.io/badge/YAML-2C8EBB?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML" height="30" />
-
-
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white" alt="Elasticsearch" height="30" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white" alt="Logstash" height="30" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" height="30" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" height="30" />
+  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Alertmanager" height="30" />
 
 </div>
+
+
 Certifications:
 <div>
     <a href="https://www.credly.com/badges/7d91cda4-3ba4-4af4-aee7-87f29626737f">
