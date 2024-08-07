@@ -1,5 +1,5 @@
 # Hi there, I'm Alaa HAJRI 👋
-I'm a Cloud Solution Architect with expertise in Python, Terraform, Docker, and Kubernetes. I'm also certified in AWS Cloud Practitioner and CCNA.
+I'm a DevOps / Cloud Solution Architect with expertise in Python, Terraform, Docker, and Kubernetes. 
 
 Technologies I work with:
 <div>
@@ -17,45 +17,20 @@ Technologies I work with:
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" height="30" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" height="30" />
   <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Alertmanager" height="30" />
-
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Azure" height="30" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" alt="Google Cloud" height="30" />
+  <img src="https://img.shields.io/badge/Palo%20Alto%20Networks-0081C6?style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" alt="Palo Alto" height="30" />
+  <img src="https://img.shields.io/badge/Zscaler-0066CC?style=for-the-badge&logo=Zscaler&logoColor=white" alt="Zscaler" height="30" />
+  <img src="https://img.shields.io/badge/Tufin-FF6C37?style=for-the-badge&logo=Tufin&logoColor=white" alt="Tufin" height="30" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="GitLab" height="30" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" alt="InfluxDB" height="30" />
+  <img src="https://img.shields.io/badge/Telegraf-22ADF6?style=for-the-badge&logo=Telegraf&logoColor=white" alt="Telegraf" height="30" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white" alt="RabbitMQ" height="30" />
+  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=ServiceNow&logoColor=white" alt="ServiceNow" height="30" />
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware ESXi" height="30" />
+  <img src="https://img.shields.io/badge/VMware%20vCenter-607078?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware vCenter" height="30" />
+  <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware vSphere" height="30" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white" alt="Helm" height="30" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis" height="30" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" height="30" />
 </div>
-
-
-Certifications:
-<div>
-    <a href="https://www.credly.com/badges/7d91cda4-3ba4-4af4-aee7-87f29626737f">
-        <img src="https://images.credly.com/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" alt="AWS Educate Getting Started with Cloud Ops Badge" height="120" />
-    </a>
-    <a href="https://www.credly.com/badges/bc0b9ba9-1c47-4e43-a0ec-5ab76263ccef">
-        <img src="https://images.credly.com/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="AWS Educate Getting Started with Networking Badge" height="120" />
-    </a>  
-    <a href="https://www.credly.com/earner/earned/badge/2b0f1c42-23db-4a38-8fe8-5883c3f5f180">
-        <img src="https://images.credly.com/size/150x150/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Credly Badge" height="120" />
-    </a>
-    <a href="https://www.credly.com/earner/earned/badge/08ae1fa4-cf07-487e-90f3-12e491272311">
-        <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Credly Badge" height="120" />
-    </a>
-    <a href="https://www.credly.com/badges/dfda4d9d-9dd8-4a4a-bd24-59a1d505a8a8">
-        <img src="https://images.credly.com/size/150x150/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA Badge" height="120" />
-    </a>
-    <a href="https://www.credly.com/badges/c2273ab3-cd13-4299-9a0f-e5bb04c87f8b">
-        <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco Python Essentials 1 Badge" height="120" />
-    </a>
-
-</div>
-
-
-<!--
-**AlaaHajri/AlaaHajri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
